@@ -1,0 +1,93 @@
+
+
+body{
+    background-color:white ;
+}
+ul li{
+       list-style: none;
+}
+.hero{
+       background-image: url("../images/drstone.png");
+       background-repeat: no-repeat;
+       background-size:auto;
+       height:150px;
+       background-size: cover;
+}
+.profilePicture{
+                background-image: url("../images/nature.jpg");
+                border: solid 3px white;
+                height: 200px;
+                width:200px;
+                margin-top: -150px;
+                margin-left:25px;
+                object-fit: cover;
+                margin-bottom: 0px;
+}
+.card1{
+  height:50rem;
+}
+.card2{
+         height:6rem;
+         margin-top: -400px;
+}
+ 
+ .middlecard1{
+    height:6rem;
+    margin-top: -400px;
+ }
+ .middlecard2{
+    height:5rem;
+    margin-top: 10px;
+ }
+ #space-tab{
+            height:50px;
+ }
+ .post1{
+         background-image: url("../images/nature.jpg");
+         border:0px;
+         height:300px;
+
+ }
+ .icons{
+        align-items: center;
+        justify-content: between;
+        font-size: 30px;
+        margin:30px;
+        margin-right:65px;
+        color:blue;
+ }
+ #bb #hero_1 .bi .icons:hover{
+        color:white;
+ }
+.w-10
+{
+    width: 10%;
+    border-radius: 50;
+}
+.sideIcones{
+       color:blue;
+       font-size: 30px;
+       padding-right: 15px;
+}
+.topPP{
+       width:15%;
+
+}
+.topIcone{
+       margin-left:20px;
+       font-size: 30px;
+       color:white;
+}
+.navbar-text{
+       margin-left: 1100px;
+}
+.ppName{
+       color:white;
+}
+.bi:hover{
+       color:darkblue;
+}
+.herat{
+        color:red;
+        font-size: medium;
+}
